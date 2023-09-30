@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run dev",
     "start": "node backend/server.js",
-    "dev": "nodemon backend/server.j"
+    "dev": "nodemon backend/server.js"
   },
   "repository": {
     "type": "git",
